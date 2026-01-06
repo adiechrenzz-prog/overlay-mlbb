@@ -1,0 +1,28 @@
+{
+  "teamdata": {
+    "blueteam": {
+      "teamname": "BLUE TEAM",
+      "score": "0",
+      "logo": "",
+      "playerlist": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "redteam": {
+      "teamname": "RED TEAM",
+      "score": "0",
+      "logo": "",
+      "playerlist": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  }
+}
