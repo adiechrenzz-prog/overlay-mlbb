@@ -1,0 +1,80 @@
+{
+  "draftdata": {
+    "timer": "60",
+    "timerRunning": false,
+    "current_phase": 13,
+    "blueside": {
+      "ban": [
+        {
+          "hero": "/Assets/HeroPick/alucard.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/badang.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/yuzhong.png"
+        },
+        {
+          "hero": ""
+        },
+        {
+          "hero": ""
+        }
+      ],
+      "pick": [
+        {
+          "hero": "/Assets/HeroPick/novaria.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/thamuz.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/jawhead.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/bane.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/zhask.png"
+        }
+      ]
+    },
+    "redside": {
+      "ban": [
+        {
+          "hero": "/Assets/HeroPick/wanwan.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/thamuz.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/barats.png"
+        },
+        {
+          "hero": ""
+        },
+        {
+          "hero": ""
+        }
+      ],
+      "pick": [
+        {
+          "hero": "/Assets/HeroPick/wanwan.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/floryn.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/atlas.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/novaria.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/aurora.png"
+        }
+      ]
+    },
+    "timer_running": true
+  }
+}
